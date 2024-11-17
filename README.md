@@ -1,7 +1,3 @@
-Evet, verdiğiniz Python kodu, PyQt5 kullanarak basit bir web tarayıcısı uygulaması geliştirmek için harika bir örnek! Bu tür bir projeyi GitHub'da yayınlamak için README dosyasının da doğru şekilde yazılması gerekiyor. Aşağıda, bu Python tarayıcısını kurmak ve çalıştırmak için kullanıcıların takip etmesi gereken adımları içeren bir README dosyası örneği hazırladım. Kodunuzun özelliklerini ve kurulum adımlarını açıklayacak şekilde özelleştirilecek.
-
----
-
 # Talygo Browser
 
 **Talygo Browser**, PyQt5 ve QtWebEngine kullanarak geliştirilmiş basit, hafif bir web tarayıcısıdır. Bu tarayıcı, sekmeli gezinti, proxy desteği, konum paylaşımını engelleme ve tema değişikliği gibi özelliklerle birlikte gelir.
